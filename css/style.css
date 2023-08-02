@@ -1,0 +1,47 @@
+
+
+.logo{ 
+    width: 15rem;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: rgb(230, 229, 227);
+}
+
+header {
+    background-color: rgb(164, 160, 160);
+    border: 2px solid black;
+}
+
+.fuentes{
+   font-size: 0.8rem;
+   padding: 1.5rem;
+   text-transform: uppercase;
+  font-weight: bold;
+}
+
+.dropdown-menu{
+    text-transform: initial;
+}
+
+.fuentes li a:hover {
+    background-color: red;
+    color: antiquewhite;
+}
+
+.d-flex{
+    align-items: center;
+    justify-content: center;
+    width: 1300px;
+    background-color:rgb(252, 0, 0);
+    border-radius: 25px;
+}
+
+.btn {
+    color:  antiquewhite;
+    background-color:rgb(252, 0, 0);
+    border: 2px solid black;
+}
