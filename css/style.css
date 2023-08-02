@@ -45,3 +45,15 @@ header {
     background-color:rgb(252, 0, 0);
     border: 2px solid black;
 }
+
+hr {
+    border: 2px dotted black;
+    position: relative;
+    top: -50px;
+}
+
+.imgCorusel{
+   height: 450px;
+   object-fit: cover;
+
+}
