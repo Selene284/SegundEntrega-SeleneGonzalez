@@ -1,0 +1,32 @@
+.logo {
+    width: 15rem;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Poppins:wght@300&family=Roboto:wght@100&display=swap');
+
+  body {
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: $fondogeneral;
+  }
+
+  .map {
+    position: relative;
+    width: 500px;
+    height: 300px;
+    left: 400px;
+    top: 25px;
+    display: flex;
+}
+
+.mb-1 {
+    position: relative;
+    left: 550px;
+    display: flex;
+}
+
+.text-body-secondary {
+    position: relative;
+    left: 275px;
+    display: flex;
+}
+  

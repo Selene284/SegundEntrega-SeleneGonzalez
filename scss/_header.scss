@@ -1,0 +1,42 @@
+header {
+    background-color: $fondo2;
+    border: 2px solid $colorbordes;
+
+    .fuentes {
+        font-size: 0.8rem;
+        padding: 1.5rem;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+      
+      .dropdown-menu {
+        text-transform: initial;
+      }
+      
+      .fuentes li a:hover {
+        background-color: $colorbtn;
+        color: $letras;
+      }
+      
+      .d-flex {
+        align-items: center;
+        justify-content: center;
+        width: 1300px;
+        background-color: $colorbtn;
+        border-radius: 25px;
+      }
+      
+      .btn {
+        color: $letras;
+        background-color: $colorbtn;
+        border: 2px solid $colorbordes;
+      }
+
+      hr {
+        border: 2px dotted black;
+        position: relative;
+        top: -50px; }
+
+  }
+  
+  
