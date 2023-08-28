@@ -7,6 +7,7 @@
   body {
     font-family: 'Nanum Gothic', sans-serif;
     background-color: $fondogeneral;
+    overflow-x: hidden;
   }
 
   .map {
@@ -29,4 +30,4 @@
     left: 275px;
     display: flex;
 }
-  
+

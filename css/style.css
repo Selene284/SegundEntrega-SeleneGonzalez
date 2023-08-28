@@ -9,6 +9,7 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
     background-color: rgb(230, 229, 227);
+    overflow-x: hidden;
 }
 
 header {
